@@ -1,2 +1,3 @@
 You can swipe left on modified files to commit changes.
 Swiping left also works on directories and repositories to show relevant actions.
+When looking at text file changes, deleted lines of text are shown in a red balloon and added lines are in a green balloon.
